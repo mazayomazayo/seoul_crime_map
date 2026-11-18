@@ -1,0 +1,10 @@
+x,y,n,pearson_r,pearson_p,spearman_rho,spearman_p
+cctv_total,total_reported,25,0.6293,0.0008,0.4031,0.0457
+nightlife_venues,total_reported,25,0.7343,0.0,0.6184,0.001
+cctv_per_km2,crime_per_km2,25,0.6867,0.0001,0.7046,0.0001
+nightlife_per_km2,crime_per_km2,25,0.7202,0.0,0.4892,0.0131
+nightlife_venues,violence_reported,25,0.7319,0.0,0.6096,0.0012
+nightlife_venues,theft_reported,25,0.6782,0.0002,0.6207,0.0009
+nightlife_venues,sexual_assault_reported,25,0.7335,0.0,0.6205,0.0009
+cctv_total,clearance_rate,25,-0.2337,0.2609,0.0292,0.8897
+cctv_total,nightlife_venues,25,0.4389,0.0282,0.1239,0.5551
